@@ -13,4 +13,8 @@ sqlparse==0.5.3
 typing_extensions==4.14.1
 uritemplate==4.2.0
 psycopg2-binary
+pytest
+pytest-django
+pytest-cov
+ruff
 
